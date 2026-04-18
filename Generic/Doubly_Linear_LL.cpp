@@ -1,4 +1,4 @@
-// Doubly linear
+// Doubly Linear LL using Template
 #include<iostream>
 using namespace std;
 

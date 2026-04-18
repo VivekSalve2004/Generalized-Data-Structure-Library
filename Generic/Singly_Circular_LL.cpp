@@ -1,4 +1,4 @@
-// singly circular LL using Template 
+// Singly Circular LL using Template 
 #include<iostream>
 using namespace std;
 

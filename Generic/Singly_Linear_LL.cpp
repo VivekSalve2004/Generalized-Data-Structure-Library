@@ -1,4 +1,4 @@
-// singly LL using template
+// Singly Linear LL using template
 #include<iostream>
 using namespace std;
 
